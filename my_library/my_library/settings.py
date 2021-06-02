@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'livereload',
     'book_management',
-    #'my_library.book_management',
     
 ]
 
